@@ -19,6 +19,15 @@ body {
   gap: 16px;
 }
 
+.header-image {
+  flex-direction: row-reverse;
+}
+
+div .image {
+  width: 300px;
+  height: 150px;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
